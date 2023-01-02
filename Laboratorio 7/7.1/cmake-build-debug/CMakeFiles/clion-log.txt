@@ -1,0 +1,21 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\cscag\Desktop\APA\Laboratorio\LABORATORIO 7\7.1"
+CMake Error: Could not find cmake module file: CMakeDetermineCMakeLists.txtCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_CMakeLists.txt_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_CMakeLists.txt_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/cscag/Desktop/APA/Laboratorio/LABORATORIO 7/7.1/cmake-build-debug/CMakeFiles/3.15.3/CMakeCMakeLists.txtCompiler.cmake
+CMake Error at CMakeLists.txt:3 (project):
+  No CMAKE_CMakeLists.txt_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_CMakeLists.txt_COMPILER to the full path to the compiler, or to the
+  compiler name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeCMakeLists.txtInformation.cmake
+CMake Error: CMAKE_CMakeLists.txt_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/cscag/Desktop/APA/Laboratorio/LABORATORIO 7/7.1/cmake-build-debug/CMakeFiles/CMakeOutput.log".

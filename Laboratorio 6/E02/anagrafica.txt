@@ -1,0 +1,6 @@
+A122 marco rossi 1985/10/10 stradasanda moncalieri 1234
+A046 alberta esposito 1967/04/05 viaroma milano 0812
+A879 marta bianchi 1988/31/12 corsostatiuniti genova 3456
+A523 riccardo santis 1991/02/03 vicolostretto sassari 5432
+A555 giorgia ferrero 1989/23/07 corsoregina bologna 8849
+

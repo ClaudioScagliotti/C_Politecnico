@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="7_11" targetName="7_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83a608c3-27a1-4005-96b3-67709e81fce1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1UCguHk1oCSkRkGCMK3HPlDrOJB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LABORATORIO 2/2.3" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="7_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="7_11" TARGET_NAME="7_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="7_11" RUN_TARGET_NAME="7_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a608c3-27a1-4005-96b3-67709e81fce1" name="Default Changelist" comment="" />
+      <created>1574866211727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574866211727</updated>
+      <workItem from="1574866215452" duration="12139000" />
+      <workItem from="1574926466441" duration="4956000" />
+      <workItem from="1574960266323" duration="1804000" />
+      <workItem from="1574963466056" duration="1340000" />
+      <workItem from="1575132027471" duration="4757000" />
+      <workItem from="1575899080777" duration="594000" />
+      <workItem from="1576253788409" duration="590000" />
+      <workItem from="1576254396366" duration="228000" />
+      <workItem from="1576254718314" duration="69000" />
+      <workItem from="1604439134597" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="sol[pos]" language="ObjectiveC" />
+        <watch expression="sol[j]" language="ObjectiveC" />
+        <watch expression="val[pos+j]" language="ObjectiveC" />
+        <watch expression="sol[pos-1]" language="ObjectiveC" />
+        <watch expression="val[j]" language="ObjectiveC" />
+        <watch expression="z" language="ObjectiveC" />
+        <watch expression="r" language="ObjectiveC" />
+        <watch expression="pos" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
